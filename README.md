@@ -27,3 +27,5 @@
 ## Directus CMS
 
 - directus/directus:10.10.5
+
+## Harbor v2.10.2 (Docker Image Registry)
