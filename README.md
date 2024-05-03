@@ -29,3 +29,11 @@
 - directus/directus:10.10.5
 
 ## Harbor v2.10.2 (Docker Image Registry)
+
+## APT (ubuntu and debian) Mirror Server
+
+- mirror-registry: https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry
+
+## APK (alpine) Mirror Server
+
+- mirror-registry: https://www.kaggle.com/datasets/tyresetiger/apk-mirror-registry

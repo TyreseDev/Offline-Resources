@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  nginx-apk-mirror:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx_mirror.conf:/etc/nginx/conf.d/default.conf
+      - ./apk-mirror:/var/spool/apk-mirror:ro

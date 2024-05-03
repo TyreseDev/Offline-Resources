@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  nginx-apt-mirror:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx_mirror.conf:/etc/nginx/conf.d/default.conf
+      - ./apt-mirror/mirror:/var/spool/apt-mirror:ro
