@@ -32,8 +32,25 @@
 
 ## APT (ubuntu and debian) Mirror Server
 
-- mirror-registry: https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry
+- mirror-registry
+
+```
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-001
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-002
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-003
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-004
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-005
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-006
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-007
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-008
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-009
+https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-010
+```
 
 ## APK (alpine) Mirror Server
 
-- mirror-registry: https://www.kaggle.com/datasets/tyresetiger/apk-mirror-registry
+- mirror-registry
+
+```
+https://www.kaggle.com/datasets/tyresetiger/apk-mirror-registry
+```
