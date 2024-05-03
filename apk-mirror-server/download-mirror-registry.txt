@@ -1,0 +1,3 @@
+URL: https://www.kaggle.com/datasets/tyresetiger/apk-mirror-registry
+
+After downloading, unzip using 7-zip tools, not Winrar!
