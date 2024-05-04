@@ -2,9 +2,7 @@
 
 ## GitLab
 
-- gitlab/gitlab-ce:16.6.0-ce.0
-
-- gitlab/gitlab-runner:alpine3.18-v16.6.0
+- https://github.com/TyreseDev/Docker-Images/releases
 
 ## Penpot
 
