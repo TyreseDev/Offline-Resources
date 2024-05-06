@@ -2,9 +2,13 @@
 
 ## GitLab
 
-- https://github.com/TyreseDev/Docker-Images/releases
+```
+https://github.com/TyreseDev/Docker-Images/releases
+```
 
-- https://github.com/TyreseDev/Offline-Resources/releases/download/v2.0.0/gitlab-docs-16.11.zip
+```
+https://github.com/TyreseDev/Offline-Resources/releases/download/v2.0.0/gitlab-docs-16.11.zip
+```
 
 ## Penpot
 
