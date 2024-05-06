@@ -1,5 +1,9 @@
 # GitLab Offline ⚡️ The Most Comprehensive AI-powered DevSecOps Platform
 
+## GitLab Docs
+
+- https://github.com/TyreseDev/Offline-Resources/releases/download/v2.0.0/gitlab-docs-16.11.zip
+
 ## ⁉️ How to run docker image ?
 
 ### 1. First load docker images :
