@@ -34,6 +34,8 @@ https://github.com/TyreseDev/Offline-Resources/releases/download/v2.0.0/gitlab-d
 
 ## Harbor v2.10.2 (Docker Image Registry)
 
+## 7zip Ubuntu & Debian Package (p7zip-full)
+
 ## APT (ubuntu and debian) Mirror Server
 
 ```
