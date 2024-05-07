@@ -10,7 +10,7 @@ https://github.com/TyreseDev/Docker-Images/releases
 https://github.com/TyreseDev/Offline-Resources/releases/download/v2.0.0/gitlab-docs-16.11.zip
 ```
 
-## Coolify (Self-hosted CI/CD platform)
+## Coolify (Self-hosted Open-Source CI/CD Platform)
 
 ## sslip.io-dns-server (DNS service that, when queried with a hostname with an embedded IP address, returns that IP address)
 
@@ -40,7 +40,7 @@ https://github.com/TyreseDev/Offline-Resources/releases/download/v2.0.0/gitlab-d
 
 ## Basic Ubuntu & Debian Package (p7zip-full, zip, unzip, nano)
 
-## APT (ubuntu and debian) Mirror Server
+## APT (ubuntu and debian) Mirror Registry
 
 ```
 https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-001
@@ -82,7 +82,7 @@ https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-009
 https://www.kaggle.com/datasets/tyresetiger/apt-mirror-registry-010
 ```
 
-## APK (alpine) Mirror Server
+## APK (alpine) Mirror Registry
 
 ```
 https://www.kaggle.com/datasets/tyresetiger/apk-mirror-registry
