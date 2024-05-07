@@ -12,6 +12,8 @@ https://github.com/TyreseDev/Offline-Resources/releases/download/v2.0.0/gitlab-d
 
 ## Coolify (Self-hosted CI/CD platform)
 
+## sslip.io-dns-server (DNS service that, when queried with a hostname with an embedded IP address, returns that IP address)
+
 ## Penpot
 
 - penpotapp/backend:1.19.3
