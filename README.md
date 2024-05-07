@@ -38,9 +38,7 @@ https://github.com/TyreseDev/Offline-Resources/releases/download/v2.0.0/gitlab-d
 
 ## Harbor v2.10.2 (Docker Image Registry)
 
-## p7zip-full: Ubuntu & Debian Package (7zip tools)
-
-## nano: Ubuntu & Debian Package (text editor)
+## Basic Ubuntu & Debian Package (p7zip-full, zip, unzip, nano)
 
 ## APT (ubuntu and debian) Mirror Server
 
